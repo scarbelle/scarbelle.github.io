@@ -29,7 +29,8 @@
 
 ### Tanzania2018
 
-- [Photo Album](https://github.com/scarbelle/Tanzania2018)
+- [Photo Album Pictures](https://scarbelle.github.io/Tanzania2018/)
+- [Photo Album Repository](https://github.com/scarbelle/Tanzania2018)
 
 ---
 
