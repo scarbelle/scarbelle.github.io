@@ -9,7 +9,7 @@
 
 ---
 
-- [Double-Linked List](/pdf/sample_presentation.pdf)
+- [Double-Linked List](https://github.com/scarbelle/DoubleLinkedList_Cpp)
 
 <img src="images/DoubleLinkedListPic.png?raw=true" style="width:70%;proportional=true;align:middle;"/>
 
