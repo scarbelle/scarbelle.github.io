@@ -3,19 +3,19 @@
 ### C++ Code Samples 
 ---
 
-[IPC Client/Server](/sample_page)
+- [IPC Client/Server](/sample_page)
 
-<img src="images/ClientServerSharedMem.png?raw=true"/>
-
----
-
-[Double-Linked List](/pdf/sample_presentation.pdf)
-
-<img src="images/DoubleLinkedListPic.png?raw=true"/>
+<img src="images/ClientServerSharedMem.png" style="width:100%;height:480px;align:center;"/>
 
 ---
 
-[Project 3 Title](http://example.com/)
+- [Double-Linked List](/pdf/sample_presentation.pdf)
+
+<img src="images/DoubleLinkedListPic.png" style="width:100%;height:480px;align:center;"/>
+
+---
+
+- [Project 3 Title](http://example.com/)
 
 ---
 
@@ -39,6 +39,7 @@
 ### PumpkinShoot
 
 - [Photo Album Pictures](https://scarbelle.github.io/PumpkinShoot/)
+<img src="images/IMG_4325_pumpkinShoot.JPG" style="width:100%;height:480px;align:center;"/>
 
 ---
 
