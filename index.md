@@ -1,15 +1,16 @@
 ## Portfolio
 
+### C++ Code Samples 
 ---
 
-### C++ Code Samples 
-
 [IPC Client/Server](/sample_page)
+
 <img src="images/ClientServerSharedMem.png?raw=true"/>
 
 ---
 
 [Double-Linked List](/pdf/sample_presentation.pdf)
+
 <img src="images/DoubleLinkedListPic.png?raw=true"/>
 
 ---
@@ -19,6 +20,7 @@
 ---
 
 ### C Code Samples
+---
 
 - [IPC Client/Server](http://example.com/)
 - [Project 2 Title](http://example.com/)
