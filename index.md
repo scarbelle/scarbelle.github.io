@@ -11,7 +11,7 @@
 
 - [Double-Linked List](/pdf/sample_presentation.pdf)
 
-<img src="images/DoubleLinkedListPic.png?raw=true" style="width:100%;height:480px;align:center;"/>
+<img src="images/DoubleLinkedListPic.png?raw=true" style="width:70%;proportional=true;align:center;"/>
 
 ---
 
