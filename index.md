@@ -5,13 +5,13 @@
 
 - [IPC Client/Server](/sample_page)
 
-<img src="images/ClientServerSharedMem.png?raw=true" style="width:70%;proportional=true;align:center;"/>
+<img src="images/ClientServerSharedMem.png?raw=true" style="width:70%;proportional=true;align:right;"/>
 
 ---
 
 - [Double-Linked List](/pdf/sample_presentation.pdf)
 
-<img src="images/DoubleLinkedListPic.png?raw=true" style="width:70%;proportional=true;align:center;"/>
+<img src="images/DoubleLinkedListPic.png?raw=true" style="width:70%;proportional=true;align:middle;"/>
 
 ---
 
