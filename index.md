@@ -5,7 +5,7 @@
 
 - [IPC Client/Server](/sample_page)
 
-<img src="images/ClientServerSharedMem.png?raw=true" style="width:100%;height:480px;align:center;"/>
+<img src="images/ClientServerSharedMem.png?raw=true" style="width:70%;proportional=true;align:center;"/>
 
 ---
 
