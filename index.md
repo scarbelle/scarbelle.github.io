@@ -8,11 +8,12 @@
 <img src="images/ClientServerSharedMem.png?raw=true"/>
 
 ---
-[Double-Linked List](/pdf/sample_presentation.pdf)
 
+[Double-Linked List](/pdf/sample_presentation.pdf)
 <img src="images/DoubleLinkedListPic.png?raw=true"/>
 
 ---
+
 [Project 3 Title](http://example.com/)
 
 ---
