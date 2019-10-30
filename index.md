@@ -9,7 +9,7 @@
 
 ---
 
-- [Double-Linked List](https://github.com/scarbelle/DoubleLinkedList_Cpp)
+- [Double-Linked List](https://github.com/scarbelle/DoubleLinkedList_cpp)
 
 <img src="images/DoubleLinkedListPic.png?raw=true" style="width:70%;proportional=true;align:middle;"/>
 
@@ -22,8 +22,7 @@
 ### C Code Samples
 ---
 
-- [IPC Client/Server](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [IPC Client/Server](https://github.com/scarbelle/Proj2_ipcClientServer)
 
 ---
 
