@@ -5,19 +5,12 @@
 
 - [IPC Client/Server](/sample_page)
 
-<img src="images/ClientServerSharedMem.png?raw=true" style="width:70%;proportional=true;align:right;"/>
-
 ---
 
 - [Double-Linked List](https://github.com/scarbelle/DoubleLinkedList_cpp)
 
-<img src="images/DoubleLinkedListPic.png?raw=true" style="width:70%;proportional=true;align:middle;"/>
-
 ---
 
-- [Project 3 Title](http://example.com/)
-
----
 
 ### C Code Samples
 ---
@@ -32,13 +25,6 @@
 <img src="images/IMG_6839.CR2.jpg?raw=true" style="width:70%;proportional=true;align:center;"/>
 
 - [Photo Album Repository](https://github.com/scarbelle/Tanzania2018)
-
----
-
-### PumpkinShoot
-
-- [Photo Album Pictures](https://scarbelle.github.io/PumpkinShoot/)
-<img src="images/IMG_4325_pumpkinShoot.JPG?raw=true" style="width:80%;height:240px;align:center;"/>
 
 ---
 
