@@ -3,13 +3,19 @@
 ### C++ Code Samples 
 ---
 
-- [IPC Client/Server](/sample_page)
-
----
-
 - [Double-Linked List](https://github.com/scarbelle/DoubleLinkedList_cpp)
 
 ---
+
+- [Simple String Manipulations](https://github.com/scarbelle/myStrings_cpp)
+
+---
+
+- [IPC Client/Server - work in progress, does yet not run](/sample_page)
+
+---
+
+
 
 
 ### C Code Samples
